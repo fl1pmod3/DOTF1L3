@@ -1,0 +1,31 @@
+{
+    "layer": "overlay",
+    "positionX": "right",
+    "positionY": "top",
+    "control-center-margin-top": 35,
+    "control-center-margin-bottom": 10,
+    "control-center-margin-right": 15,
+    "control-center-width": 360,
+    "notification-outer-margin": 10,
+    "notification-margin": 10,
+    "notification-width": 320,
+    "spacing": 8,
+    "border-radius": 6,
+    "timeout": 6,
+    "timeout-low": 6,
+    "timeout-critical": 0,
+    "keyboard-shortcuts": true,
+    "hide-on-action": true,
+    "icons": {
+        "size": 32,
+        "spacing": 6
+    },
+    "dnd": {
+        "default-state": false
+    },
+    "widget-config": {
+        "clock": {
+            "format": "%H:%M:%S"
+        }
+    }
+}

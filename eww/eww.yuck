@@ -1,0 +1,11 @@
+(defwidget top-bar []
+  (box :orientation "horizontal"
+       :spacing 20
+       :halign "center"
+       :valign "start"
+       :class "bar"
+    (label :text "${cpu}" :class "cpu")
+    (label :text "${ram}" :class "ram")
+    (label :text "${battery}" :class "battery")
+    (label :text "${network}" :class "network")
+    (label :text "${time}" :class "clock")))

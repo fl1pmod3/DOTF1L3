@@ -1,0 +1,35 @@
+color = 0f0f0fCC
+inside-color = 0f0f0fCC
+inside-clear-color = 0f0f0fCC
+inside-ver-color = 14b8a6CC
+inside-wrong-color = a855f7CC
+
+ring-color = 14b8a6
+ring-clear-color = 14b8a6
+ring-ver-color = 14b8a6
+ring-wrong-color = a855f7
+
+key-hl-color = a855f7
+bs-hl-color = a855f7
+line-color = 00000000
+seperator-color = 00000000
+
+text-color = d0f0ff
+text-clear-color = 14b8a6
+text-ver-color = 14b8a6
+text-wrong-color = a855f7
+
+# CLOCK
+clock = true
+timestr = %H:%M:%S
+datestr = %A, %d %B
+
+font = JetBrainsMono Nerd Font
+
+# EFFECTS
+indicator = true
+fade-in = 0.2
+grace = 2
+show-failed-attempts = true
+screenshot = true
+blur = 10

@@ -1,0 +1,10 @@
+configuration {
+  font: "JetBrainsMono Nerd Font 13";
+  show-icons: true;
+  icon-theme: "Papirus-Dark";
+  display-drun: "Launch:";
+  drun-display-format: "{name}";
+  location: center;
+  fullscreen: false;
+  theme: "theme";
+}
