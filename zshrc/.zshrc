@@ -5,7 +5,7 @@ export BROWSER="firefox"
 export PATH="$HOME/.local/bin:$PATH"
 
 # SHELL UX
-eval "$(oh-my-posh init zsh --config ~/.config/ohmyposh/matrix.omp.json)"
+eval "$(oh-my-posh init zsh --config ~/.config/ohmyposh/synd1cat3.omp.json)"
 
 # fastfetch banner
 fastfetch

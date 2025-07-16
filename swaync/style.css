@@ -1,30 +1,30 @@
 * {
     font-family: "JetBrainsMono Nerd";
     font-size: 13px;
-    color: #00ff00;
+    color: #00d4c4;
     background-color: rgba(0, 0, 0, 0.9);
     border-radius: 5px;
-    border: 1px solid #00ff00;
+    border: 1px solid #a64eff;
 }
 
 .notification {
     background-color: rgba(0, 0, 0, 0.9);
-    border-left: 3px solid #00ff00;
+    border-left: 3px solid #a64eff;
     padding: 10px;
 }
 
 .notification-title {
     font-weight: bold;
-    color: #00ff00;
+    color: #4b0082;
 }
 
 .notification-body {
-    color: #66ff66;
+    color: #008080;
 }
 
 .control-center {
     background-color: rgba(0, 0, 0, 0.85);
-    border: 1px solid #00ff00;
+    border: 1px solid #4b0082;
 }
 
 .control-center .notification {
@@ -32,6 +32,6 @@
 }
 
 .widget-title {
-    color: #00ff99;
+    color: #008080;
     font-weight: bold;
 }

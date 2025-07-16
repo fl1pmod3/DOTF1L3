@@ -43,4 +43,8 @@ fi
 
 # 5. enable sddm for autologin
 if command -v sddm &> /dev/null; then
-    echo
+    echo "enabling sddm"
+    sudo systemctl enable sddm
+fi
+
+echo "DOTF1L3 INSTALLATION COMPLETED"
